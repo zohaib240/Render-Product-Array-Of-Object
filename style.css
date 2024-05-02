@@ -1,0 +1,50 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+body{
+
+    background-color: #000000;
+    color: #f0f8ff;
+    font-family: cursive;
+    font-size: 70%;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    flex-wrap: wrap;
+    
+}
+
+.head{
+    color: rgb(255, 8, 0);
+    background-color: #f0f8ff;
+  
+   
+    
+}
+#products{
+    border: 2px solid #ffffff;
+    color: rgb(4, 6, 150);
+ text-align: center;
+ justify-content: center;
+ align-items: center;
+
+}
+
+    @media (max-width:800px) {
+   body{
+    font-size: 40%;
+   }
+
+   
+
+   
+
+
+
+
+
+
+    }
